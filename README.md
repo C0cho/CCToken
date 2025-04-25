@@ -1,9 +1,5 @@
 ## 发行一个自己的代币 CC
 
-## Documentation
-
-https://book.getfoundry.sh/
-
 ## Usage
 
 ### Build
